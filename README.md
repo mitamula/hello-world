@@ -1,2 +1,5 @@
 # hello-world
-Trial coding
+
+Hi People!
+
+Cris here, trying to learn coding.
